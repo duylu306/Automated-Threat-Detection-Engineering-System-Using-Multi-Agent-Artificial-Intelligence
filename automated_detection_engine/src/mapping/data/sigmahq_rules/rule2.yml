@@ -1,4 +1,0 @@
-title: Suspicious PowerShell Encoded
-id: 222
-description: Phát hiện PowerShell chạy base64.
-tags: ['attack.t1059.001']
