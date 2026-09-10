@@ -1,0 +1,4 @@
+title: Clear Windows Security Logs
+id: 333
+description: Xóa log bằng wevtutil.
+tags: ['attack.t1070.001']

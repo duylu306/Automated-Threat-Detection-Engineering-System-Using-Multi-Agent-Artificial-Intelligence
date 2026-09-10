@@ -1,0 +1,4 @@
+title: Detect Certutil URLCache
+id: 111
+description: Kẻ tấn công dùng certutil tải payload.
+tags: ['attack.t1105']
