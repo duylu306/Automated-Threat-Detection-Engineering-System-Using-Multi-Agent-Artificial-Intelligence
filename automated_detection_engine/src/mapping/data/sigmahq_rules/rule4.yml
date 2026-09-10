@@ -1,0 +1,4 @@
+title: LSASS Memory Dump
+id: 444
+description: Dùng procdump hoặc taskmgr dump LSASS.
+tags: ['attack.t1003.001']
